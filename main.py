@@ -15,6 +15,8 @@ def db_connect():
     db = client["fabrication"]
     return db
 
+#pycharm sucks
+
 
 def create_collection():
     # Create a collection named 'customer' if it doesn't exist
